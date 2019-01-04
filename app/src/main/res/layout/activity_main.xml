@@ -28,7 +28,7 @@
             android:layout_marginStart="8dp" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginLeft="8dp" app:layout_constraintHorizontal_bias="1.0"/>
     <TextView
-            android:text="@string/how_many?"
+            android:text="@string/how_many"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView" app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="24dp"
